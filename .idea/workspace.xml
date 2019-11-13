@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="706fa376-fb89-4b60-9530-0c9bc925699f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/single-demo-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-demo-api/single-demo-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-demo-mapper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-demo-mapper/single-demo-mapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-demo-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-demo-service/single-demo-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-demo-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-pojo/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +25,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TYyV9FAncxc7Ux43T1GRKI4JKz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573651344218</updated>
       <workItem from="1573651347299" duration="1065000" />
-      <workItem from="1573652423517" duration="1253000" />
+      <workItem from="1573652423517" duration="4562000" />
     </task>
     <task id="LOCAL-00001" summary="[add]pojo">
       <created>1573652874041</created>
@@ -60,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573653179301</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[add]pojo">
+      <created>1573653761432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573653761433</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

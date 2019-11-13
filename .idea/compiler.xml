@@ -6,8 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="singledemo" />
+        <module name="single-demo-common" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="single-demo-common" target="1.5" />
+      <module name="single-demo-mapper" target="1.5" />
+      <module name="single-demo-pojo" target="1.5" />
+      <module name="single-demo-service" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -10,6 +10,9 @@
     <modules>
         <module>single-demo-common</module>
         <module>single-demo-pojo</module>
+        <module>single-demo-mapper</module>
+        <module>single-demo-service</module>
+        <module>single-demo-api</module>
     </modules>
 
 <!--
