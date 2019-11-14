@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="706fa376-fb89-4b60-9530-0c9bc925699f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-api/src/main/java/com/terryzh/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-api/src/main/java/com/terryzh/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-demo-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-demo-api/single-demo-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-api/single-demo-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-demo-common/single-demo-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-common/single-demo-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-demo-mapper/single-demo-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-mapper/single-demo-mapper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-demo-pojo/single-demo-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-pojo/single-demo-pojo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-demo-service/single-demo-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-service/single-demo-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-demo-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-api/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +106,7 @@
       <updated>1573651344218</updated>
       <workItem from="1573651347299" duration="1065000" />
       <workItem from="1573652423517" duration="7691000" />
-      <workItem from="1573701703985" duration="9722000" />
+      <workItem from="1573701703985" duration="11179000" />
     </task>
     <task id="LOCAL-00001" summary="[add]pojo">
       <created>1573652874041</created>
@@ -148,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573658141204</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[add]intial lcoal">
+      <created>1573740068829</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573740068829</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[add]pojo" />
     <MESSAGE value="[add]all" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add]all" />
+    <MESSAGE value="[add]intial lcoal" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]intial lcoal" />
   </component>
 </project>
