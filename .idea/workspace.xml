@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="706fa376-fb89-4b60-9530-0c9bc925699f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/single-demo-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-api/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,7 +105,7 @@
       <updated>1573651344218</updated>
       <workItem from="1573651347299" duration="1065000" />
       <workItem from="1573652423517" duration="7691000" />
-      <workItem from="1573701703985" duration="11179000" />
+      <workItem from="1573701703985" duration="12034000" />
     </task>
     <task id="LOCAL-00001" summary="[add]pojo">
       <created>1573652874041</created>
@@ -143,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573740068829</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[add]整合 HikariCP">
+      <created>1573741698665</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573741698665</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +172,7 @@
     <MESSAGE value="[add]pojo" />
     <MESSAGE value="[add]all" />
     <MESSAGE value="[add]intial lcoal" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add]intial lcoal" />
+    <MESSAGE value="[add]整合 HikariCP" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]整合 HikariCP" />
   </component>
 </project>
