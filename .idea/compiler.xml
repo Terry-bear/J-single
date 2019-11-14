@@ -6,14 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="single-demo-service" />
+        <module name="single-demo-api" />
         <module name="single-demo-common" />
+        <module name="single-demo-mapper" />
+        <module name="single-demo-pojo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="single-demo-common" target="1.5" />
-      <module name="single-demo-mapper" target="1.5" />
-      <module name="single-demo-pojo" target="1.5" />
-      <module name="single-demo-service" target="1.5" />
+      <module name="single-demo-common" target="1.8" />
+      <module name="single-demo-mapper" target="1.8" />
+      <module name="single-demo-pojo" target="1.8" />
+      <module name="single-demo-service" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="single-demo-api" options="-parameters" />
+      <module name="single-demo-common" options="-parameters" />
+      <module name="single-demo-mapper" options="-parameters" />
+      <module name="single-demo-pojo" options="-parameters" />
+      <module name="single-demo-service" options="-parameters" />
+    </option>
   </component>
 </project>

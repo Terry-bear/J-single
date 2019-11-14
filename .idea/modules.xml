@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/single-demo-api/single-demo-api.iml" filepath="$PROJECT_DIR$/single-demo-api/single-demo-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/single-demo-common/single-demo-common.iml" filepath="$PROJECT_DIR$/single-demo-common/single-demo-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/single-demo-mapper/single-demo-mapper.iml" filepath="$PROJECT_DIR$/single-demo-mapper/single-demo-mapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/single-demo-pojo/single-demo-pojo.iml" filepath="$PROJECT_DIR$/single-demo-pojo/single-demo-pojo.iml" />
