@@ -10,5 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: io.swagger:swagger-annotations:1.5.6" level="project" />
     <orderEntry type="library" name="Maven: org.hibernate.validator:hibernate-validator:6.0.16.Final" level="project" />
+    <orderEntry type="module" module-name="single-demo-common" />
   </component>
 </module>

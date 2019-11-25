@@ -15,5 +15,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: tk.mybatis:mapper-core:1.1.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.1.7.RELEASE" level="project" />
+    <orderEntry type="module" module-name="single-demo-common" />
   </component>
 </module>
