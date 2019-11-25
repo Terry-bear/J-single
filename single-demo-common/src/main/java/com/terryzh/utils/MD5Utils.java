@@ -1,4 +1,4 @@
-package terryzh.utils;
+package com.terryzh.utils;
 
 import org.apache.commons.codec.binary.Base64;
 
@@ -20,7 +20,7 @@ public class MD5Utils {
 
 	public static void main(String[] args) {
 		try {
-			String md5 = getMD5Str("terryzh");
+			String md5 = getMD5Str("imooc");
 			System.out.println(md5);
 		} catch (Exception e) {
 			e.printStackTrace();

@@ -1,4 +1,4 @@
-package terryzh.enums;
+package com.terryzh.enums;
 
 /**
  * @Description: 支付方式 枚举

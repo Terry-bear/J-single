@@ -1,4 +1,4 @@
-package terryzh.utils;
+package com.terryzh.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

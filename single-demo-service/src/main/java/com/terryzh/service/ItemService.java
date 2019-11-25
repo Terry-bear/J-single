@@ -1,6 +1,9 @@
 package com.terryzh.service;
 
-import com.terryzh.pojo.*;
+import com.terryzh.pojo.Items;
+import com.terryzh.pojo.ItemsImg;
+import com.terryzh.pojo.ItemsParam;
+import com.terryzh.pojo.ItemsSpec;
 import com.terryzh.pojo.vo.CommentLevelCountsVO;
 import com.terryzh.pojo.vo.ShopcartVO;
 import com.terryzh.utils.PagedGridResult;

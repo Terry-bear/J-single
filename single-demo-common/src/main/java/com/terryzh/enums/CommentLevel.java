@@ -1,4 +1,4 @@
-package terryzh.enums;
+package com.terryzh.enums;
 
 /**
  * @Desc: 商品评价等级 枚举

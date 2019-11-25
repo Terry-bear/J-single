@@ -1,4 +1,4 @@
-package terryzh.enums;
+package com.terryzh.enums;
 
 /**
  * @Desc: 是否 枚举

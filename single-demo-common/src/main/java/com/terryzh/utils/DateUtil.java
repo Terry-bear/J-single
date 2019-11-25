@@ -1,4 +1,4 @@
-package terryzh.utils;
+package com.terryzh.utils;
 
 import org.apache.commons.lang3.StringUtils;
 

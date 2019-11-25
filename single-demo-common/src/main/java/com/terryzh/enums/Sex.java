@@ -1,4 +1,4 @@
-package terryzh.enums;
+package com.terryzh.enums;
 
 /**
  * @Desc: 性别 枚举

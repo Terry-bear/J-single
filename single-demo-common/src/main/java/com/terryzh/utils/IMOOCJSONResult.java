@@ -1,4 +1,4 @@
-package terryzh.utils;
+package com.terryzh.utils;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.ObjectMapper;

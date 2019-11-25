@@ -4,6 +4,7 @@ import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import org.hibernate.validator.constraints.Length;
 
+import javax.validation.constraints.*;
 import java.util.Date;
 
 @ApiModel(value="用户对象", description="从客户端，由用户传入的数据封装在此entity中")

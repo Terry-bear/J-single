@@ -2,138 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="706fa376-fb89-4b60-9530-0c9bc925699f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/DayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/InvalidSystemClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/RandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/Sid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/WorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/strategy/FileLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/utils/HttpReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/utils/IPv4Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/utils/Ip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/utils/Props.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/utils/Serializes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/org/n3r/idworker/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/enums/CommentLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/enums/OrderStatusEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/enums/PayMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/enums/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/enums/YesOrNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/utils/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/utils/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/utils/DesensitizationUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/utils/IMOOCJSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/utils/MD5Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/utils/MobileEmailUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-common/src/main/java/terryzh/utils/PagedGridResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/CarouselMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/CategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/CategoryMapperCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/ItemsCommentsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/ItemsCommentsMapperCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/ItemsImgMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/ItemsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/ItemsMapperCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/ItemsParamMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/ItemsSpecMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/OrderItemsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/OrderStatusMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/OrdersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/OrdersMapperCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/StuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/UserAddressMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/java/com/terryzh/my/mapper/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/CarouselMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/CategoryMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/ItemsCommentsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/ItemsCommentsMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/ItemsImgMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/ItemsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/ItemsMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/ItemsParamMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/ItemsSpecMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/OrderItemsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/OrderStatusMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/OrdersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/OrdersMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/StuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/UserAddressMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-mapper/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/Carousel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/Items.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/ItemsComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/ItemsImg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/ItemsParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/ItemsSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/OrderItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/Stu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/UserAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/bo/AddressBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/bo/ShopcartBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/bo/SubmitOrderBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/bo/UserBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/bo/center/CenterUserBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/bo/center/OrderItemsCommentBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/CategoryVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/CommentLevelCountsVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/ItemCommentVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/ItemInfoVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/MerchantOrdersVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/MyCommentVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/MyOrdersVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/MySubOrderItemVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/NewItemsVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/OrderStatusCountsVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/OrderVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/SearchItemsVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/ShopcartVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/SimpleItemVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/vo/SubCategoryVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/AddressService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/CarouselService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/ItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/StuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/TestTransService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/center/CenterUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/center/MyCommentsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/center/MyOrdersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/AddressServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/CarouselServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/ItemServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/StuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/TestTransServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/center/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/center/CenterUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/center/MyCommentsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/impl/center/MyOrdersServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-demo-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-api/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/single-demo-common/single-demo-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-common/single-demo-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-demo-mapper/single-demo-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-mapper/single-demo-mapper.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/single-demo-pojo/single-demo-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-pojo/single-demo-pojo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/bo/center/CenterUserBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-pojo/src/main/java/com/terryzh/pojo/bo/center/CenterUserBO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/single-demo-service/single-demo-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-service/single-demo-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/single-demo-service/src/main/java/com/terryzh/service/ItemService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,6 +35,7 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
@@ -173,6 +49,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -180,11 +60,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/single-demo-common/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/single-demo-common/src/main/java/com" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -250,7 +130,7 @@
       <workItem from="1573952874766" duration="67000" />
       <workItem from="1574329754579" duration="402000" />
       <workItem from="1574385104389" duration="209000" />
-      <workItem from="1574645080155" duration="2811000" />
+      <workItem from="1574645080155" duration="4488000" />
     </task>
     <task id="LOCAL-00001" summary="[add]pojo">
       <created>1573652874041</created>
@@ -301,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573742648362</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[add] java beans">
+      <created>1574651270878</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574651270878</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +212,7 @@
     <MESSAGE value="[add]all" />
     <MESSAGE value="[add]intial lcoal" />
     <MESSAGE value="[add]整合 HikariCP" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add]整合 HikariCP" />
+    <MESSAGE value="[add] java beans" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] java beans" />
   </component>
 </project>

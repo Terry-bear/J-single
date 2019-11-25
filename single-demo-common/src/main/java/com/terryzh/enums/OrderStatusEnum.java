@@ -1,4 +1,4 @@
-package terryzh.enums;
+package com.terryzh.enums;
 
 /**
  * @Description: 订单状态 枚举

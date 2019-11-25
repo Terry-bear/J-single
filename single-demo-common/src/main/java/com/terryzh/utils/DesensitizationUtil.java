@@ -1,4 +1,4 @@
-package terryzh.utils;
+package com.terryzh.utils;
 
 /**
  * 通用脱敏工具类
