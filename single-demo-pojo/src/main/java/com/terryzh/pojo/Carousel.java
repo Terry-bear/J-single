@@ -8,7 +8,7 @@ public class Carousel {
     /**
      * 主键
      */
-    @Id
+    @EmbeddedId
     private String id;
 
     /**
